@@ -1,0 +1,1 @@
+Uh should be just a typical vue + vite setup so just npm install + npm run dev. See the package.json for the appropriate script
